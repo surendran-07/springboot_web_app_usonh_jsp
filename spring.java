@@ -2,7 +2,7 @@ package sem;
 import java.io.*;
 import java.net.*;
 
-public class prg16 {
+public class spring {
 	public static void main (String [] args) throws IOException{
 		ServerSocket server=new ServerSocket(8081);
 		while(true) {
